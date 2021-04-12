@@ -10,7 +10,7 @@ The purpose of this report is to:
 - Create a mentorship_eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 so that new employees can be mentored by those eligible for mentorship.
 
 # Results
-Images used for the analysis are found under the Resources folder and the tables under the Queries folder.
+Images used for the analysis are found under the Resources folder, the tables under the Queries folder and the code in the Employee_Database_challenge.sql file.
 
 - Looking at the silver_tsunami count.png image in the Resources folder it can be seen that Pewlett-Hackard will lose over 90398 positions during the phase.  If plans are not made to fill these positions accordingly it can seriously impact the company. Suitable measures need to be taken right away.
 
